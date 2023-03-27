@@ -1,4 +1,2 @@
-# rvsh
-Lo14 rvsh
+# Commande shell pour simuler un réseau virtuel de machines Linux
 
-très beau projet
